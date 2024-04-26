@@ -3,7 +3,8 @@
 
                                                                  Report
 FIFA 23, the beloved football simulation game, offers not just entertainment but a rich dataset ready for analysis. With a passion for both the sport and the game, I chose to extract valuable insights from this dataset. This report aims to explore the general insights and trends within the virtual football world. Through statistical analysis and data visualization, we'll uncover the hidden gems within FIFA 23, offering valuable insights for players, managers, and developers alike. Let's dive in and discover what the data has to reveal about the virtual football landscape.
-I did some operations in the dataset in excel to help me to analyse it accurately:
+
+
 To ensure accuracy in our analysis, I conducted several operations on the dataset using Excel:
 1.	Exploration and Understanding: I meticulously examined the dataset to understand its structure and potential relationships. This involved identifying spelling errors and comprehending the purpose of each column.
 2.	Data Cleaning: Various formatting techniques were applied to standardize the dataset, making it readable and understandable.
