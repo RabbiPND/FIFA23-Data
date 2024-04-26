@@ -2,16 +2,16 @@
 
 
                                                                  Report
-FIFA 23, the beloved football simulation game, offers not just entertainment but a rich dataset ready for analysis. With a passion for both the sport and the game, I chose to extract valuable insights from this dataset. This report aims to explore the general insights and trends within the virtual football world. Through statistical analysis and data visualization, we'll uncover the hidden gems within FIFA 23, offering valuable insights for players, managers, and developers alike. Let's dive in and discover what the data has to reveal about the virtual football landscape.
+FIFA 23, the beloved football simulation game, offers not just entertainment but a rich dataset ready for analysis. With a passion for both the sport and the game, I chose to extract valuable insights from this dataset. This report aims to explore the general insights and trends within the virtual football world. Through statistical analysis and data visualization, I uncover the hidden gems within FIFA 23, offering valuable insights for players, managers, and developers alike. diving in and discovering what the data has to reveal about the virtual football landscape.
 
 
-To ensure accuracy in our analysis, I conducted several operations on the dataset using Excel:
+To ensure accuracy in my analysis, I conducted several operations on the dataset using Excel:
 1.	Exploration and Understanding: I meticulously examined the dataset to understand its structure and potential relationships. This involved identifying spelling errors and comprehending the purpose of each column.
 2.	Data Cleaning: Various formatting techniques were applied to standardize the dataset, making it readable and understandable.
 3.	Integration with Tableau: The Excel dataset was seamlessly integrated with Tableau for visualization purposes. This integration enabled the creation of interactive and insightful visual representations of the data.
 
 
-To guide our analysis, the following key questions were formulated:
+To guide my analysis, the following key questions were formulated:
 1.	Do the height and weight columns have the appropriate data types?
 2.	Does the date column have the correct format?
 3.	Are the value, wage, and release clause columns clean, with the right data types and formats?
