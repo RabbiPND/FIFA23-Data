@@ -26,6 +26,7 @@ Visualization
 Interactive Filters: To enhance usability, the dashboard features interactive filters for international reputation, weak foot, skill moves. These filters empower customizations of analysis based on specific criteria of interest, ensuring extraction of actionable insights. Whether focusing on player attributes, skill levels, or reputation, these filters provide flexibility and granularity in analysis, ultimately enhancing the usability and utility of the dashboard.
 
 Conclusion
+
 In exploring the FIFA 23's dataset, I have uncovered valuable insights into player dynamics, team strategies, and market trends can be used by the public. From body type correlations to wage differentials, the analysis offers actionable insights for players, managers, and developers. With interactive filters enhancing usability, users can tailor their analysis to specific interests. This exploration underscores the power of data to inform decisions and drive innovation in virtual football. These insights can be used to optimize strategies and enrich the gaming experience, ensuring continued excitement and engagement in the digital football realm.
 
 
